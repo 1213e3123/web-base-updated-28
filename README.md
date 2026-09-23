@@ -13,10 +13,10 @@
 - Весь текст осмыслен
 
 ## Задание №2
-- В файле 'src/App.css' описал стили для вёрстки из файла 'index.html'
+- В файле `src/App.css` описал стили для вёрстки из файла `index.html`
 
 ## Задание №3
-В файле 'src/index.html' были добавлены на страницу следующие скрипты:
-- Внешний скрипт 'src/scripts/sync.js'
-- Внешний скрипт 'src/scripts/async.js' с атрибутом async
-- Внешний скрипт 'src/scripts/defer.js' с атрибутом defer
+В файле `src/index.html` были добавлены на страницу следующие скрипты:
+- Внешний скрипт `src/scripts/sync.js`
+- Внешний скрипт `src/scripts/async.js` с атрибутом async
+- Внешний скрипт `src/scripts/defer.js` с атрибутом defer
