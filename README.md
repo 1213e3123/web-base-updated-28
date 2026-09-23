@@ -1,81 +1,22 @@
-# Основы веб-технологий (обновлённые задания) 
+#Информация о студенте:
+- ФИО: Храмов Кирилл Евгеньвеич
+- Номер группы: 6212-100503D
+- Лабораторная работа №:1
 
-### [Таблица с успеваемостью](https://docs.google.com/spreadsheets/d/1E9OKPixylDZm_OoSQpLpkEL9mWMCCnHHv3-npW79cJE/edit?usp=sharing)
 
-## Лабораторные работы
+#Что было выполнено:
 
-<table>
-<tr>
+##Задание №1
+-Заголовок первого уровня;
+-Заголовок второго уровня;
+-Нумерованный список из трёх ссылок на определённый ресурс;
+-Весь текст осмыслен
 
-<th>№</th>
-<th>Название</th>
-<th>Ссылка</th>
-<th>Tenzor</th>
-</tr>
+##Задание №2
+-В файле 'src/App.css' описал стили для вёрстки из файла 'index.html'
 
-<tr>
-<td>1</td>
-<td>Базовый синтаксис HTML и CSS</td>
-<td><a href="https://github.com/itsecd/web-base-updated/tree/main/Lab1">Ссылка</a></td>
-<th>
-    <a href="https://github.com/tensor-school/task-html">Tenzor 1</a>
-    <a href="https://github.com/tensor-school/task-flexbox">Tenzor 2</a>
-    <a href="https://github.com/tensor-school/task-scripts">Tenzor 3</a>
-</th>
-</tr>
-
-<tr>
-<td>2</td>
-<td>Базовый JavaScript</td>
-<td><a href="https://github.com/itsecd/web-base-updated/tree/main/Lab2">Ссылка</a></td>
-<th>
-    <a href="https://github.com/tensor-school/task-basic-syntax">Tenzor 4</a>
-    <a href="https://github.com/tensor-school/task-cycles">Tenzor 5</a>
-    <a href="https://github.com/tensor-school/task-arrays">Tenzor 6</a>
-    <a href="https://github.com/tensor-school/task-functions">Tenzor 7</a>
-    <a href="https://github.com/tensor-school/task-objects">Tenzor 8</a>
-</th>
-</tr>
-
-<tr>
-<td>3</td>
-<td>Взаимодействие JS с DOM-деревом</td>
-<td><a href="https://github.com/itsecd/web-base-updated/tree/main/Lab3">Ссылка</a></td>
-<th>
-    <a href="https://github.com/tensor-school/task-dom">Tenzor 10</a>
-    <a href="https://github.com/tensor-school/task-js-styles">Tenzor 11</a>
-    <a href="https://github.com/tensor-school/task-events">Tenzor 12</a>
-</th>
-</tr>
-
-<tr>
-<td>4</td>
-<td>Асинхронность в JavaScript</td>
-<td><a href="https://github.com/itsecd/web-base-updated/tree/main/Lab4">Ссылка</a></td>
-<th>
-    <a href="https://github.com/tensor-school/task-async">Tenzor 17</a>
-</th>
-</tr>
-</table>
-
-### Как происходит сдача лабораторной работы
-1. Создаёте fork данного репозитория;
-2. Выполнить лабораторную работу;
-3. Сделать pull-request с названием в формате НомерГруппы_ФамилияИО_Лаб. НомерЛабы (Пример: <i>6211 ИвановИИ Лаб. 1</i>);
-4. Исправить замечания; \
-    4.1. В случае, если будет замечено списывание с помощью Artificial Intelegence или у коллеги, то выдаётся индивидуально задание
-5. В случае успешной сдачи лабораторной работы pull-request закрывается.
-
-### Общие требования к лабораторным работам
-1. Стремиться к оптимальному и читабельному коду;
-2. Не списывать у коллег из соседних групп.
-
-## Дополнительная литература
-- [HTML для начинающих: вопросы и ответы / Хабр](https://habr.com/ru/companies/vdsina/articles/500190/)
-- [Основы CSS - Изучение веб-разработки | MDN](https://developer.mozilla.org/ru/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content)
-- [Pseudo-elements - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
-- [Комбинированные селекторы](https://doka.guide/css/combined-selectors/?ysclid=mdyfb3ubk0848657441)
-- [Рендеринг веб сайтов 101](https://habr.com/ru/articles/484900/)
-- [Что такое SEO](https://www.unisender.com/ru/blog/guide-seo/?ysclid=mdyfhjignj292426450#anchor-1)
-- [What is Frontend Development?](https://roadmap.sh/frontend)
-- [JavaScript Developer Roadmap: Step by step guide to learn JavaScript](https://roadmap.sh/javascript)
+##Задание №3
+В файле 'src/index.html' были добавлены на страницу следующие скрипты:
+-Внешний скрипт 'src/scripts/sync.js'
+-Внешний скрипт 'src/scripts/async.js' с атрибутом async
+-Внешний скрипт 'src/scripts/defer.js' с атрибутом defer
